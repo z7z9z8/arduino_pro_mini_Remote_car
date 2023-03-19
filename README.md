@@ -1,2 +1,12 @@
 # arduino_pro_mini_Remote_car
-Use Bluetooth and PS2 to control a car.
+>这是使用Arduino Nano 开发板制作的遥控小车，支持蓝牙和手柄控制。
+# 硬件
+- Arduino Nano
+- HC-05 蓝牙模块
+- 无线PS2手柄
+- 小车底盘
+# 注意
+1. 菜鸟一个，代码写的不好
+2. 该小车底盘有刷电调驱动的，然后没有找到相关的资料，只能通过试的方式找的控制正反转的PWM占空比，目前只能控制正反转和刹车。
+3. 该小车底盘还有一个铲斗和振盘。
+4. 这是我第一次开源。
